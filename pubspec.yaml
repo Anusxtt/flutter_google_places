@@ -14,7 +14,7 @@ dependencies:
   google_maps_webservice:
     git:
       url: https://github.com/Anusxtt/google_maps_webservice.git
-      ref: main
+      ref: master
   http: ^1.2.0
   rxdart: ">=0.27.5 <0.29.0"
 
